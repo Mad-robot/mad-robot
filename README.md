@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=x onerror=alert()>
+<img src=x oneonerrorrror=alert()>
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning nothing
