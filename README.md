@@ -1,12 +1,5 @@
-### Hi there 👋👋👋
-
-<img src=x oneonerrorrror=alert()>
-
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about nothing
-- 📫 How to reach me: nothing
-- 😄 Pronouns: nothing
-- ⚡ Fun fact: nothing
+<h2> Hi, I'm madrobot!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="380">
+<p><em>Security Engineer and Bugbounty Hunter <br>
+  Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
